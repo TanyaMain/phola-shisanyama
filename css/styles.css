@@ -1,0 +1,318 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #353836;
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+header a {
+  text-decoration: none;
+}
+
+header {
+  padding: 0 20px;
+  background-color: #353836;
+  height: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+header img{
+  width: 200px;
+}
+
+nav ul {
+  list-style: none;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+ul a {
+  color: white;
+}
+
+ul li {
+  padding: 5px;
+  margin-left: 10px;
+}
+
+ul li:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
+#login{
+  border-radius: 5px;
+  padding: 5px 8px;
+}
+
+#login {
+  border: 1px solid #ff652f;
+}
+
+#login a {
+  color: #ff652f;
+}
+
+#hamburger-icon {
+  margin: auto 0;
+  display: none;
+  cursor: pointer;
+}
+
+#hamburger-icon div {
+  width: 35px;
+  height: 3px;
+  background-color: white;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+.open .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-6px, 6px);
+  transform: rotate(-45deg) translate(-6px, 6px);
+}
+
+.open .bar2 {
+  opacity: 0;
+}
+
+.open .bar3 {
+  -webkit-transform: rotate(45deg) translate(-6px, -8px);
+  transform: rotate(45deg) translate(-6px, -8px);
+}
+
+.open .mobile-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.mobile-menu {
+  display: none;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  height: calc(100vh - 50px);
+  width: 100%;
+}
+
+.mobile-menu li {
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  header nav {
+    display: none;
+  }
+
+  #hamburger-icon {
+    display: block;
+  }
+
+  #hamburger-icon ul{
+    list-style: none;
+  }
+
+  .about-us{
+    width: 100%;
+  }
+
+  .about-us .pic1{
+    width: 100%;
+    padding: 0 5px 0 0;
+  }
+
+  .meals {
+    width: 100%;
+    padding:8px;
+    align-items: center;
+  }
+
+  .picture-2{
+    width: 100px;
+  }
+}
+
+/*navigate footer*/
+footer{
+  padding: 10px;
+  text-align: center;
+}
+.social-media-links ul li{
+  display:inline;  
+  width: auto;
+  list-style:none;
+  padding: 10px;
+  font-size: 35px;
+}
+footer img{
+width: 100px;
+}
+/*for all the page*/
+
+h1{
+  font-weight: 900;
+  text-align: center;
+  color: #ff652f
+}
+h2{
+  font-weight: 700;
+  text-align: center;
+  color: #ff652f
+}
+/*for the home page*/
+.about-us{
+  margin: 20px auto;
+  width: 50%;
+  padding:8px;
+  border: solid 1px #ff652f;
+  align-items: center;
+  
+}
+.about-us .pic1{
+  float:left;
+  width: 300px;
+  padding: 0 5px 0 0;
+}
+
+h3{
+  font-weight: 700;
+  font-size: 30px;
+  color: #ff652f;
+  text-align: center;
+}
+.picture-2{
+  text-align: center;
+}
+
+.online-specails{
+  text-align: center;
+  margin: 20px auto;
+  width: 50%;
+  padding:8px;
+  border: solid 1px #ff652f;
+  align-items: center;
+}
+
+.meals {
+  text-align: center;
+  margin: 20px auto;
+  width: 50%;
+  padding:8px;
+  border: solid 1px #ff652f;
+  align-items: center;
+}
+.meal{
+  color: #ff652f;
+}
+
+.button{
+  background: #ff652f;
+  border: solid 1px white;
+  padding: 3px;
+  border-radius: 11px;
+  text-align: center;
+  align-items: center;
+  padding: 5px;
+}
+/*for the menu page*/
+.tab {
+  padding: 30px;
+  text-align: center;
+  background-color: #353836;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  color: #ff652f;
+  border: #ff652f solid;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+/* Style the tab content */
+.tabcontent {
+  text-align: center;
+  padding: 6px 12px;
+  border-top: none;
+}
+
+.view{
+  text-align: center;
+  align-items: center;
+}
+
+table{
+  border-collapse: collapse;
+}
+th{ background-color:#ff652f;
+  Color:white;
+}
+th, td {
+  width:150px;
+  text-align:center;
+  border:1px solid black;
+  padding:5px
+           
+}
+
+.thank-you-message{
+  margin:200px;
+}
+
+/*for the login/register page*/
+.form{
+    position:flex;
+    text-align: center;
+    align-items: center;
+    padding: 0px;
+    margin: 0px;
+	place-items: center;
+	padding: 1rem;
+}
+
+form img{
+      top: -50px;
+      left: calc(50% - 50px);
+      width: 100px;
+      background: rgb(255, 255, 255, 0.8);
+      border-radius: 50%;
+}
+
+form  input{
+    padding: 10px 0;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom:  1px solid #fff;
+    outline: none;
+    background-color: transparent;
+    color: inherit;
+}
+  
+form button{
+   
+    width: 100px;
+    height: 40px;
+    background: #ff652f;
+    margin-left: auto;
+}
+
+

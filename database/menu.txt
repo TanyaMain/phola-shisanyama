@@ -1,0 +1,44 @@
+Chuck Meal;Phola Shisa Nyama Meals Menu;A BBQ marinaded chuck meat with pap, our 3 dazzling veggies sides and our very own homemade gravy;47;500;images\\menu\\01.jfif
+Prime Rib Meal;Phola Shisa Nyama Meals Menu;A BBQ marinaded prime rib meat with pap, our 3 dazzling veggies sides and our very own homemade gravy;50;500;images\\menu\\02.jfif
+1/4 Chicken Meal;Phola Shisa Nyama Meals Menu;A BBQ marinaded chuck meat with pap, our 3 dazzling veggies sides and our very own homemade gravy;38;500;images\\menu\\03.jfif
+Beef Stew Meal;Phola Shisa Nyama Meals Menu;A BBQ marinaded 1/4 chicken with pap, our 3 dazzling veggies sides and our very own homemade gravy;45;500;images\\menu\\04.jfif
+Wors Meal;Phola Shisa Nyama Meals Menu;A BBQ marinaded wors meat with pap, our 3 dazzling veggies sides and our very own homemade gravy;35;500;images\\menu\\05.jfif
+Hardbody Meal;Phola Shisa Nyama Meals Menu;A hardbody stew with pap, our 3 dazzling veggies sides and our very own homemade gravy;40;500;images\\menu\\06.jfif
+Four Wings Meal;Phola Shisa Nyama Meals Menu;A BBQ marinadedwings meat with pap, our 3 dazzling veggies sides and our very own homemade gravy;38;500;images\\menu\\07.jfif
+Wors Box Meal;Meal To Share Menu;200g Chuck + 150g wors with pap, our 3 dazzling veggies and our very own homemade gravy;60;500;images\\menu\\08.png
+Chuck Box Meal;Meal To Share Menu;1/4 Chicken + 200g Chuck with pap, our 3 dazzling veggies and or very own homemade gravy;65;500;images\\menu\\09.jfif
+Chicken & Wors Meal;Meal To Share Menu;1/4 Chicken + 200g Chuck with pap, our 3 dazzling veggies and or very own homemade gravy;55;500;images\\menu\\010.jfif
+Double Chuck Combo Meal;Meal To Share Menu;200g Chuck X2 with pap, our 3 dazzling veggies and or very own homemade gravy;80;500;images\\menu\\011.jfif
+1/2 Chicken Combo Meal;Meal To Share Menu;1/4 Chicken X2 with pap, our 3 dazzling veggies and or very own homemade gravy;60;500;images\\menu\\012.jfif
+Meat Box Combo Meal;Meal To Share Menu;1/4 Chicken + 200g Chuck with 150g of wors with pap, our 3 dazzling veggies and or very own homemade gravy;85;500;images\\menu\\013.jfif
+Full Chicken & Pap Meal;Meal To Share Menu;Full Chicken with pap, our 3 dazzling veggies and or very own homemade gravy;110;500;images\\menu\\014.png
+1/4 Chicken & Chips ;Chips Menu;A delicious 1/4 BBQ marinaded chicken with our famouse fries;33;500;images\\menu\\015.jfif
+4 Wings Chips;Chips Menu;Try our delicious BBQ marinaded wings with our famouse fries;33;500;images\\menu\\016.jfif
+Chuck & Chips;Chips Menu;A BBQ marinaded chuck meat with our  famouse fries;40;500;images\\menu\\017.jfif
+Beef burger & Chips;Chips Menu;A delicious BBQ marinaded beef burger with our famouse fries;30;500;images\\menu\\018.jfif
+Chicken burger & Chips;Chips Menu;A delicious BBQ marinaded chicken burger with our famouse fries;30;500;images\\menu\\019.jfif
+Double Wrap;Chips Menu;1/4 cut wrap with delicious BBQ marinaded chicken strips and our famouse fries;40;500;images\\menu\\020.jfif
+Single Wrap;Chips Menu;Full wrap with delicious BBQ marinaded chicken strips and our famouse fries;25;500;images\\menu\\021.jfif
+Russian & Chips;Chips Menu;A full russian and our famouse fries;33;500;images\\menu\\022.jfif
+Small Chips ;Chips Side Menu;A small box of our famouse fries (P.S: Do not forget to add some meat over there!!);18;500;images\\menu\\023.jfif
+Medium Chips;Chips Side Menu;A Medium box of our famouse fries (P.S: Do not forget to add some meat over there!!);23;500;images\\menu\\024.jfif
+Large Chips;Chips Side Menu;A Large box of our famouse fries (P.S: Do not forget to add some meat over there!!);33;500;images\\menu\\025.jfif
+Chuck 200g;Phola Shisa Nyama Extra Menu;Just a simple BBQ marinaded chuck;35;500;images\\menu\\026.jfif
+1/4 Chicken;Phola Shisa Nyama Extra Menu;Just a simple BBQ marinaded quarter chicken;30;500;images\\menu\\027.jfif
+1/2 Chicken;Phola Shisa Nyama Extra Menu;Just a simple BBQ marinaded half chicken;50;500;images\\menu\\028.jfif
+Wors Only;Phola Shisa Nyama Extra Menu;Your Simple bread roll;25;500;images\\menu\\029.jfif
+Bread Rolls;Phola Shisa Nyama Extra Menu;Your Simple white bread;5;500;images\\menu\\030.jfif
+White Bread;Phola Shisa Nyama Extra Menu;Your Simple homemade garlic bread;15;500;images\\menu\\031.jfif
+Garlic Bread;Phola Shisa Nyama Extra Menu;Just a simple BBQ marinaded chuck;20;500;images\\menu\\032.jfif
+Wings Only;Phola Shisa Nyama Extra Menu;Just a simple BBQ marinaded wings;50;500;images\\menu\\033.jfif
+Full Chicken;Phola Shisa Nyama Extra Menu;Just a simple BBQ marinaded full chicken;90;500;images\\menu\\034.jfif
+Stew Only;Phola Shisa Nyama Extra Menu;Just a simple succulent homade stew ;35;500;images\\menu\\035.jfif
+Juice;Refreshment;You know the Refresh Vibe;13;500;images\\menu\\036.jfif
+Water;Refreshment;You know the Refresh Vibe;10;500;images\\menu\\037.jfif
+Coca Cola (Can);Refreshment;You know the Refresh Vibe;15;500;images\\menu\\038.jfif
+Fanta (Can);Refreshment;You know the Refresh Vibe;15;500;images\\menu\\039.jfif
+Sprite (Can);Refreshment;You know the Refresh Vibe;15;500;images\\menu\\040.jfif
+Coca Cola (ama 2 litre);Refreshment;You know the Refresh Vibe;20;500;images\\menu\\041.jfif
+Chicken burger & Chips with a cola can;Online Specials ;Just for you;30;500;images\\menu\\042.jfif
+Russian & Chips with a cola can;Online Specials ;Just for you;20;500;images\\menu\\043.jfif
+Large Chips & white bread with 2 liters coca cola;Online Specials ;Just for you;30;500;images\\menu\\043.jfif
